@@ -2,6 +2,8 @@
 
 Neovim plugin for doing quick math.
 
+[![asciicast](https://asciinema.org/a/vkC281dfyRUiEu7EP4auRH40k.svg)](https://asciinema.org/a/vkC281dfyRUiEu7EP4auRH40k)
+
 ## Installation
 
 Using [lazy.nvim](https://lazy.folke.io/):
