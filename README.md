@@ -10,6 +10,7 @@ Using [lazy.nvim](https://lazy.folke.io/):
 {
   'tobias-walle/quickmath.nvim',
   cmd = { 'QuickMath' }
+  opts = {},
 }
 ```
 
